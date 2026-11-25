@@ -9,3 +9,4 @@ foreach ($student as $value) {
     echo $value . "<br>";
 }
 ?>
+
