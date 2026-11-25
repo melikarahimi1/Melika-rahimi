@@ -1,0 +1,11 @@
+<?php
+$student = array(
+    "name" => "Melika",
+    "age" => 21,
+    "field" => "Computer Engineering"
+);
+
+foreach ($student as $value) {
+    echo $value . "<br>";
+}
+?>
